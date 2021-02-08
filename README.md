@@ -1,2 +1,2 @@
 # Ruby-Practice
-Practice for Ruby programming language
+## Practice for Ruby programming language
