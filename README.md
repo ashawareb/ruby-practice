@@ -9,3 +9,6 @@
 
 ## 3. Ruby-Algorithms
 **- Implementation of some sort and search algorithms**
+
+## 4. Ruby-Design Patterns
+**- Implementation to some design patterns**
